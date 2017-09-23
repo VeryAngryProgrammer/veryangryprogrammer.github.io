@@ -1,4 +1,6 @@
-<br /><br />
+---
+layout: default
+---
 
 ## Welcome
 

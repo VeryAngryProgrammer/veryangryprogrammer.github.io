@@ -1,5 +1,5 @@
 ---
-title: Programming Conferences - Things That Make Me Angry
+title: Programming Conferences
 ---
 
 ## Programming Conferences - Things That Make Me Angry

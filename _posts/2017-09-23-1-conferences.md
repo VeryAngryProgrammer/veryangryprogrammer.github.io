@@ -4,7 +4,7 @@ title: Programming Conferences
 
 ## Programming Conferences - Things That Make Me Angry
 
-_This post is the first in a series on things that make me angry. If this post on things that makes me angry happens to make you angry, I've created an easy script that you can use to [send me hate mail](https://github.com/VeryAngryProgrammer/hate-mail-script)._
+> _This post is the first in a series on things that make me angry. If this post on things that makes me angry happens to make you angry, I've created an easy script that you can use to [send me hate mail](https://github.com/VeryAngryProgrammer/hate-mail-script)._
 
 Programming conferences can be great fun, but they can also be a hive for obnoxious morons. I would rather spend a weekend with a grumpy Gorilla than some of the people I have been locked in these hell halls with. Here is my list of conference characters that make me angry.
 
@@ -24,4 +24,4 @@ Surprisingly, you actually have quite a few questions, but they're all the long 
 
 Quentin is sat on the front row (obviously), and his hand was up before the speaker had finished the word "anybody". He already knows more than the speaker does on this topic, and he has spent the last 20 minutes constructing the perfect question to prove it.
 
-"In your experience, which of these web servers would work better on my 8 Core Xeon dedicated server with 64GB of RAM? I host about 25 different micro-services and each of them get a few thousands hits every minute. I have turned off .htaccess file parsing and done quite a lot of performance configuration - will Apache still be significantly slower than NGINX? I have found before that better use of static content and application caching can have more of an impact on performance than migrating webserver technology. What do you think?"
+> "In your experience, which of these web servers would work better on my 8 Core Xeon dedicated server with 64GB of RAM? I host about 25 different micro-services and each of them get a few thousands hits every minute. I have turned off .htaccess file parsing and done quite a lot of performance configuration - will Apache still be significantly slower than NGINX? I have found before that better use of static content and application caching can have more of an impact on performance than migrating webserver technology. What do you think?"

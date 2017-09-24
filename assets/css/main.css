@@ -18,3 +18,9 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+.twitter-follow-button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

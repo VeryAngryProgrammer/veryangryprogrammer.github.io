@@ -24,6 +24,8 @@ Surprisingly, you actually have quite a few questions, but they're all the long 
 
 Quentin is sat on the front row (obviously), and his hand was up before the speaker had finished the word "anybody". He already knows more than the speaker does on this topic, and he has spent the last 20 minutes constructing the perfect question to prove it.
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l0HlHqERfyDLQD1p6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
 > "In your experience, which of these web servers would work better on my 8 Core Xeon dedicated server with 64GB of RAM? I host about 25 different micro-services and each of them get a few thousands hits every minute. I have turned off .htaccess file parsing and done quite a lot of performance configuration - will Apache still be significantly slower than NGINX? I have found before that better use of static content and application caching can have more of an impact on performance than migrating webserver technology. What do you think?"
 
 What do I think? I think that if God existed they would prove it by making your laptop battery explode right now.
@@ -48,10 +50,14 @@ The only thing she has coded in the last century is a tool to automatically subm
 
 Front Row Frederick sits right next to Questioner Quentin.
 
-Both of them arrive at the hall about fifteen minutes before the start of a talk and immediately scrambled for the center seats on the front row.
+Both of them arrive at the hall about fifteen minutes before the start of each talk and immediately scramble for the center seats on the front row.
 
 These seats are critical, but not because they provide the best view of the presentation. That is actually rather irrelevant because they spend most of the talk submitting pull requests on GitHub or running `npm install` on the conference WiFi.
 
-There are two reasons why these seats are critical. The first is that it gives Quentin the best chance at being picked for his question when his hand fires in the air. The second is that Frederick knows that when he nods his head, everyone else in the talk can see that he already knew what the speaker is talking about.
+There are two reasons why these seats are critical. The first is that it gives Quentin the best chance at being picked at question time when he fires his hand in the air like somone stuck a cattle prod between his buttocks. The second is that Frederick knows that when he nods his head, everyone else in the talk can see that he already knew what the speaker is talking about.
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/26FxGPtjnVeS6qiJ2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 If you offered Freddy a flashing LED sign that displayed the words "I ALREADY KNOW ALL OF THIS" bold emblazoned, he would probably turn his seat around and hold it above his head for the rest of the talk.
+
+In the absence of such signage, he resorts to nodding his head up and down continuously like he is at a rap concert.

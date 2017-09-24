@@ -10,7 +10,7 @@ Programming conferences can be great fun, but they can also be a hive for obnoxi
 
 ### Quentin the Questioner
 
-<iframe src="https://giphy.com/embed/l0HlHqERfyDLQD1p6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen style="float: right; margin-left: 1em; margin-bottom: 0.5em;"></iframe>
+<iframe src="https://giphy.com/embed/l0HlHqERfyDLQD1p6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 100%;"></iframe>
 
 Picture the scene.
 
@@ -46,7 +46,7 @@ The only thing she has coded in the last decade is a tool to automatically submi
 
 ### Front Row Frederick
 
-<iframe src="https://giphy.com/embed/26FxGPtjnVeS6qiJ2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen style="float: right; margin-left: 1em; margin-bottom: 0.5em;"></iframe>
+<iframe src="https://giphy.com/embed/26FxGPtjnVeS6qiJ2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen style="float: right; margin-left: 1em; margin-bottom: 0.5em; max-width: 100%;"></iframe>
 
 Frederick sits on the front row, right next to Quentin.
 

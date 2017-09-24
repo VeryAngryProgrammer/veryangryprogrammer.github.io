@@ -3,9 +3,9 @@ title: Programming Conferences
 heading: Programming Conferences - Things That Make Me Angry
 ---
 
-> _This post is the first in a series on things that make me angry. If this post on things that makes me angry happens to make you angry, I've created an easy script that you can use to [send me hate mail](https://github.com/VeryAngryProgrammer/hate-mail-script)._
+> _This post is the first in a series on things that make me angry. If this post on things that make me angry happens to make you angry, I've created an easy script that you can use to [send me hate mail](https://github.com/VeryAngryProgrammer/hate-mail-script)._
 
-Programming conferences can be great fun, but they can also be a hive for obnoxious morons. I would rather spend a weekend with a grumpy Gorilla than some of the people I have been locked in these hell halls with. Here is my list of conference characters that make me angry.
+Programming conferences can be great fun, but they can also be a hive for obnoxious morons. I would rather spend a weekend with a grumpy gorilla than some of the people I have been locked in these hell halls with. Here is my list of conference characters that make me angry.
 
 ### Quentin the Questioner
 

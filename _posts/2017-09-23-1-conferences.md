@@ -26,7 +26,7 @@ Quentin fires his hand into the air like somone stuck a cattle prod between his 
 
 > "In your experience, which of these web servers would work better on my 8 Core Xeon dedicated server with 64GB of RAM? I host about 25 different micro-services and each of them get a few thousands hits every minute. I have turned off .htaccess file parsing and done quite a lot of performance configuration - will Apache still be significantly slower than NGINX? I have found before that better use of static content and application caching can have more of an impact on performance than migrating webserver technology. What do you think?"
 
-What do I think? I think that if God existed they would prove it by making your laptop battery explode right now.
+What do I think? I think that if God exists they would prove it by making your laptop battery explode right now.
 
 ### Sally the Speaker
 

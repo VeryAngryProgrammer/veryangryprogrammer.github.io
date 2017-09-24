@@ -8,6 +8,8 @@ title: Programming Conferences
 
 Programming conferences can be great fun, but they can also be a hive for obnoxious morons. I would rather spend a weekend with a grumpy Gorilla than some of the people I have been locked in these hell halls with. Here is my list of conference characters that make me angry.
 
+<iframe src="https://giphy.com/embed/l0HlHqERfyDLQD1p6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen style="float: left;"></iframe>
+
 ### Quentin the Questioner
 
 Picture the scene.
@@ -23,8 +25,6 @@ Just before the track chair bursts a blood vessel, the speaker has the audacity 
 Surprisingly, you actually have quite a few questions, but they're all the long the lines of "Why are you still here?" and "What on earth convinced you that I would want to spend $400 to listen to that?" so you decide against putting your hand up.
 
 Quentin is sat on the front row (obviously), and his hand was up before the speaker had finished the word "anybody". He already knows more than the speaker does on this topic, and he has spent the last 20 minutes constructing the perfect question to prove it.
-
-<iframe src="https://giphy.com/embed/l0HlHqERfyDLQD1p6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 > "In your experience, which of these web servers would work better on my 8 Core Xeon dedicated server with 64GB of RAM? I host about 25 different micro-services and each of them get a few thousands hits every minute. I have turned off .htaccess file parsing and done quite a lot of performance configuration - will Apache still be significantly slower than NGINX? I have found before that better use of static content and application caching can have more of an impact on performance than migrating webserver technology. What do you think?"
 

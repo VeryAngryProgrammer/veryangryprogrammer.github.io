@@ -8,9 +8,9 @@ title: Programming Conferences
 
 Programming conferences can be great fun, but they can also be a hive for obnoxious morons. I would rather spend a weekend with a grumpy Gorilla than some of the people I have been locked in these hell halls with. Here is my list of conference characters that make me angry.
 
-<iframe src="https://giphy.com/embed/l0HlHqERfyDLQD1p6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen style="float: left;"></iframe>
-
 ### Quentin the Questioner
+
+<iframe src="https://giphy.com/embed/l0HlHqERfyDLQD1p6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen style="float: right; margin-left: 1em; margin-bottom: 0.5em;"></iframe>
 
 Picture the scene.
 

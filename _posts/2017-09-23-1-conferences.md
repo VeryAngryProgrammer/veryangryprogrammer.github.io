@@ -1,8 +1,7 @@
 ---
 title: Programming Conferences
+heading: Programming Conferences - Things That Make Me Angry
 ---
-
-## Programming Conferences - Things That Make Me Angry
 
 > _This post is the first in a series on things that make me angry. If this post on things that makes me angry happens to make you angry, I've created an easy script that you can use to [send me hate mail](https://github.com/VeryAngryProgrammer/hate-mail-script)._
 

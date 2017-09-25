@@ -5,7 +5,7 @@ heading: Amazon Web Services - Things That Make Me Angry
 
 > _This post is the second in a series on things that make me angry. If this post on things that make me angry happens to make you angry, I've created an easy script that you can use to [send me hate mail](https://github.com/VeryAngryProgrammer/hate-mail-script)._
 
-Amazon Web Services (AWS) is one of the most intentionally obstructivate and irritating platforms that I have ever had the misfortune of working with. I can guarantee you that if I ever get the opportunity to do a tour of their headquarters my mugshot will end up on the evening news and you will be watching interviews of my neighbours saying "It's a big shock to us, we always thought he was such a nice man".
+Amazon Web Services (AWS) is one of the most intentionally obstructive and irritating platforms that I have ever had the misfortune of working with. I can guarantee you that if I ever get the opportunity to do a tour of their headquarters my mugshot will end up on the evening news and you will be watching interviews of my neighbours saying "It's a big shock to us, we always thought he was such a nice man".
 
 Here are the top three things about AWS that make me angry.
 

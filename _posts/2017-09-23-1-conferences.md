@@ -21,7 +21,7 @@ Just before the track chair bursts a blood vessel, the speaker has the audacity 
 
 Surprisingly, you actually have quite a few questions, but they are all the long the lines of "Why are you still here?" and "What on earth convinced you that I would want to spend $400 on a conference ticket to listen to this shit?" so you decide against putting your hand up.
 
-Quentin fires his hand into the air like somone stuck a cattle prod between his buttocks. He already knows more than the speaker does on this topic, and he has spent the last 20 minutes constructing the perfect question to prove it.
+Quentin fires his hand into the air like someone stuck a cattle prod between his buttocks. He already knows more than the speaker does on this topic, and he has spent the last 20 minutes constructing the perfect question to prove it.
 
 > "In your experience, which of these web servers would work better on my 8 Core Xeon dedicated server with 64GB of RAM? I host about 25 different micro-services and each of them get a few thousands hits every minute. I have turned off .htaccess file parsing and done quite a lot of performance configuration - will Apache still be significantly slower than NGINX? I have found before that better use of static content and application caching can have more of an impact on performance than migrating webserver technology. What do you think?"
 
@@ -37,9 +37,9 @@ She starts sentences with the phrase "as a speaker", blogs about speaker advice 
 - What qualities do you value the most in speakers (like me)?
 - What do you think my next talk should be (I'm a speaker by the way)?
 
-The concept that some people want to attend conferences to get the latest information about what is happening in their favourite field of technology is foreign to her. In her mind, everybody should want to be a speaker (like her) and anybody that does not probably has imposter syndrome.
+The concept that some people want to attend conferences to get the latest information about what is happening in their favourite field of technology is foreign to her. In her mind, everybody should want to be a speaker (like her) and anybody that does not probably has impostor syndrome.
 
-She has spent so long focusing on talking as much shit as possible that she has forgotten any technical knowledge she once had. Thus, all of her talks are now either about giving talks or some trivial social justic theory that essentially boils down to "don't be an asshole".
+She has spent so long focusing on talking as much shit as possible that she has forgotten any technical knowledge she once had. Thus, all of her talks are now either about giving talks or some trivial social justice theory that essentially boils down to "don't be an asshole".
 
 The only thing she has coded in the last decade is a tool to automatically submit talk proposals to call for papers.
 
